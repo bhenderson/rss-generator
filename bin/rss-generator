@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'rss/generator/command'
+
+RSS::Generator::Command.run ARGV
